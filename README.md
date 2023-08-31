@@ -6,4 +6,4 @@ Usage:
      python3 yuantianOA.py -h
    
    '''
-     1[示例](https://github.com/adcjsfbj/yuantianOA/new/main/yuantianOA.png)
+     ![](https://github.com/adcjsfbj/yuantianOA/blob/main/yuantianOA.png)
